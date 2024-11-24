@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @shadotoro
-- 👀 I’m interested in web dev, IA, gaming and other things 
-- 🌱 I’m currently learning PHP, JS, HTML5, CSS3, PYTHON ...
-- 💞️ I’m looking to collaborate on, just looking for know maybe later we can manage ...
-- 📫 How to reach me, here or on Discord with shad_O (old one: Shadotoro#7083)
+# 👋 Bienvenue sur mon profil GitHub, je suis Shad_O !
 
-<!---
-shadotoro/shadotoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 **Développeur Fullstack** avec une passion pour la création de solutions innovantes et performantes. 
+Je suis spécialisé dans les technologies web modernes et toujours prêt à relever de nouveaux défis techniques.
+
+🌟 **Mes compétences principales :**
+- **Frontend** : React.js, HTML5, CSS3, Tailwind CSS.
+- **Backend** : Node.js, Express.js, PHP.
+- **Base de données** : MongoDB, MySQL, PostgreSQL.
+
+🚀 **Ce qui me motive :**
+- Concevoir des applications intuitives et fonctionnelles.
+- Optimiser les performances des systèmes.
+- Découvrir et intégrer de nouvelles technologies.
+
+🎯 **Projets récents :**
+- Développement d'une application SaaS pour la gestion RH.
+- Création et déploiement d'une plateforme interactive pour la visualisation et la commande de photos scolaires.
+- Déploiement d'applications web et mobiles utilisant des stacks modernes.
+
+📈 **Objectifs :**
+- Collaborer sur des projets innovants.
+- Partager mes connaissances avec la communauté tech.
+- Continuer à perfectionner mes compétences en développement et architecture logicielle.
+
+📫 **Contact :**
+- Ici sur GitHub.
+- Discord : `shad_O`.
