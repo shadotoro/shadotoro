@@ -4,8 +4,8 @@
 Je suis spécialisé dans les technologies web modernes et toujours prêt à relever de nouveaux défis techniques.
 
 🌟 **Mes compétences principales :**
-- **Frontend** : React.js, HTML5, CSS3, Tailwind CSS.
-- **Backend** : Node.js, Express.js, PHP.
+- **Frontend** : React.js, Vue.js, HTML5, CSS3, Tailwind CSS.
+- **Backend** : Node.js, Express.js, PHP, Django.
 - **Base de données** : MongoDB, MySQL, PostgreSQL.
 
 🚀 **Ce qui me motive :**
@@ -14,6 +14,7 @@ Je suis spécialisé dans les technologies web modernes et toujours prêt à rel
 - Découvrir et intégrer de nouvelles technologies.
 
 🎯 **Projets récents :**
+- développement de MapLinea, une application de gestion et sectorisation pour les agents immobiliers.
 - Développement d'une application SaaS pour la gestion RH.
 - Création et déploiement d'une plateforme interactive pour la visualisation et la commande de photos scolaires.
 - Déploiement d'applications web et mobiles utilisant des stacks modernes.
